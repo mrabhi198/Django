@@ -1,0 +1,11 @@
+DJango setup
+
+Step 1: download python 3.13+ version
+Set 2: install vs code Python extension
+Step 3: set environment
+        source /home/abhi/Code/Django/Project/.venv/bin/activate 
+        py -m venv <..venv>
+Step 4: install django -> pip install django
+Step 5: Create project -> django-admin startproject <projectName>
+Step 6: python manage.py runserver (run app)
+Step 7: python manage.py startapp <app_name> (Create a new app inside your project)
