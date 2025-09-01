@@ -9,3 +9,12 @@ Step 4: install django -> pip install django
 Step 5: Create project -> django-admin startproject <projectName>
 Step 6: python manage.py runserver (run app)
 Step 7: python manage.py startapp <app_name> (Create a new app inside your project)
+
+
+for Mac
+Step 3: python3 -m venv venv (set environment)
+Step 4: source venv/bin/activate (for activate environment)
+Step 5: install django -> pip install django
+Step 6: Create project -> django-admin startproject <projectName>
+Step 7: python manage.py runserver (run app)
+Step 8: python manage.py startapp <app_name> (Create a new app inside your project)
